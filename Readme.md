@@ -1,6 +1,6 @@
 # My courses for semester one are
 - Introduction to Computer Science I
-- Computer Applications
+- Understanding Esports Infrastructure
 - Linear Algebra I
 - Discrete Mathematics I
-- Database Programming
+- Academic Writing: Fundamentals
